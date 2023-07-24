@@ -17,7 +17,14 @@ export default function AboutOne() {
               <div className="about-me-text pb-5">
                 <h3>My Name is Sara</h3>
 
-                <p>Currently living in Zagreb.</p>
+                <p>
+                  I am versatile web designer due to my experience in graphic
+                  and web design. I am dedicate to continuously learn about new
+                  web design trends and concepts has made me a valuable member
+                  of the team. With freelance experience and a master`&#39`s in
+                  web design, my expertise can help customers modernize with
+                  websites and appeal to expanding customer populations.{" "}
+                </p>
                 <div className="row pt-2">
                   <div className="col-auto">
                     <div className="a-count"></div>
@@ -64,7 +71,7 @@ export default function AboutOne() {
               <div className="row align-items-start">
                 <div className="col-md-7 py-4">
                   <div className="about-me-img">
-                    <img src="assets/img/me.jpg" alt="title" />
+                    <img src="assets/img/me2.jpg" alt="title" />
                   </div>
                 </div>
                 <div className="col-md-5 py-4">
