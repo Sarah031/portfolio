@@ -99,7 +99,7 @@ export default function AboutOne() {
                         <div className="a-text">
                           <a
                             className="text-reset stretched-link"
-                            href="https://drive.google.com/file/d/1lqbVGD3bUDwzOyATThBG2Ui4EoqfptN0/view?usp=sharing"
+                            href="https://drive.google.com/file/d/1Vx1KfXkcvyqz0x3ztKMgUxunFXIUSTXW/view?usp=sharing"
                             target="_blank"
                           >
                             Resume
