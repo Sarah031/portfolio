@@ -26,6 +26,71 @@ export default function PortfolioOne() {
 
   const projects = [
     {
+      title: "Web site",
+      subTitle: "Web app",
+      img: "assets/img/Nutritina2.jpg",
+      desc1: "Web site for nutritionist",
+
+      type: "Website",
+      languages: "HTML, CSS, JS",
+      platform: "Wordpress/Elementor",
+      liveURL: (
+        <a href="https:/www.nutritina.hr" target="_blank">
+          Link to web site
+        </a>
+      ),
+    },
+    {
+      title: "Web site",
+      subTitle: "Web app",
+      img: "assets/img/DigitalSpace2.jpg",
+      desc1: "Web site for design agency",
+      type: "Website",
+      languages: "HTML, CSS, JS",
+      platform: "Wordpress/Elementor",
+      liveURL: (
+        <a href="https://digitalspacebysara.com/" target="_blank">
+          Link to web site
+        </a>
+      ),
+    },
+    {
+      title: "Mobile app design",
+      subTitle: "Mobile App, App Design",
+      img: "assets/img/Health tracking app.jpg",
+      desc1: "Health optimisation & tracking app",
+
+      type: "Website",
+      languages: "Adobe XD",
+      platform: "Adobe XD",
+      liveURL: (
+        <a
+          href="https://xd.adobe.com/view/395af687-e576-4d2a-8172-a1077d852da9-6c09/grid?hints=off"
+          target="_blank"
+        >
+          Mock-up link
+        </a>
+      ),
+    },
+    {
+      title: "Digital Design/Digital planners",
+      subTitle: "Digital design (branding,pdf planners,social media posts)",
+      img: "assets/img/Meraki.jpg",
+      desc1: "Health optimisation & tracking app",
+
+      type: "Website",
+      languages: "Adobe XD",
+      platform: "Adobe XD",
+      liveURL: (
+        <a
+          href="https://www.instagram.com/meraki_digitalplanners/"
+          target="_blank"
+        >
+          Mock-up link
+        </a>
+      ),
+    },
+    {
       title: "Weather app (Open Weather API)",
       subTitle: "Web app",
       img: "assets/img/Weather-app.jpg",
@@ -99,48 +164,6 @@ export default function PortfolioOne() {
           Expense tracker app
         </a>
       ),
-    },
-    {
-      title: "Mobile app design",
-      subTitle: "Mobile App, App Design",
-      img: "assets/img/project-4.jpg",
-      desc1:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      desc2:
-        "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      type: "Website",
-      languages: "PHP, HTML, CSS, JS",
-      platform: "Wordpress",
-      country: "USA",
-      liveURL: "www.mysite.com",
-    },
-    {
-      title: "Website Design for Marketing Agency Startup",
-      subTitle: "Mobile App, App Design",
-      img: "assets/img/project-5.jpg",
-      desc1:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      desc2:
-        "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      type: "Website",
-      languages: "PHP, HTML, CSS, JS",
-      platform: "Wordpress",
-      country: "USA",
-      liveURL: "www.yoursite.com",
-    },
-    {
-      title: "Mobile app design",
-      subTitle: "Mobile App, App Design",
-      img: "assets/img/Weather-app.jpg",
-      desc1:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      desc2:
-        "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      type: "Website",
-      languages: "PHP, HTML, CSS, JS",
-      platform: "Wordpress",
-      country: "USA",
-      liveURL: "www.realsite.com",
     },
   ];
   return (

@@ -21,8 +21,8 @@ export default function AboutOne() {
                   I am versatile web designer due to my experience in graphic
                   and web design. I am dedicate to continuously learn about new
                   web design trends and concepts has made me a valuable member
-                  of the team. With freelance experience and a master`&#39`s in
-                  web design, my expertise can help customers modernize with
+                  of the team. With freelance experience and a master`s degree
+                  in web design, my expertise can help customers modernize with
                   websites and appeal to expanding customer populations.{" "}
                 </p>
                 <div className="row pt-2">
