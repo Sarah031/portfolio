@@ -14,6 +14,11 @@ export default function Footer() {
           </div>
           <ul className="nav social-link">
             <li>
+              <a href="https://dribbble.com/sara_m01" target="_blank">
+                <i className="fab fa-dribbble" />
+              </a>
+            </li>
+            <li>
               <a href="https://github.com/settings/profile" target="_blank">
                 <i className="fab fa-github" />
               </a>
