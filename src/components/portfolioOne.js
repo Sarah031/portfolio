@@ -35,8 +35,8 @@ export default function PortfolioOne() {
       languages: "HTML, CSS, JS",
       platform: "Wordpress/Elementor",
       liveURL: (
-        <a href="https:/www.nutritina.hr" target="_blank">
-          Link to web site
+        <a href="https://nutritina.hr/" target="_blank">
+          Link to the website
         </a>
       ),
     },
