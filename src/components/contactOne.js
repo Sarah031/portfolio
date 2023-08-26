@@ -18,14 +18,7 @@ export default function ContactOne() {
                     <div className="text">
                       <label>Send a message</label>
                       <p>
-                        <span>
-                          <a
-                            className="text-reset"
-                            href="mailto:sara.majstorovic01@gmail.com"
-                          >
-                            sara@gmail.com
-                          </a>
-                        </span>
+                        <span></span>
                       </p>
                     </div>
                   </li>
