@@ -21,7 +21,7 @@ export default function ContactOne() {
                         <span>
                           <a
                             className="text-reset"
-                            href="mailto:sara.majstorovic01@]mail.com"
+                            href="mailto:sara.majstorovic01@gmail.com"
                           >
                             sara@gmail.com
                           </a>
